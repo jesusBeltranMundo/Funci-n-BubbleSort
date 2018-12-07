@@ -10,7 +10,7 @@ def bubbleSort(A):
 
 
 #funcion BubbleSort Mejorada
-#Autor Elba Karen Saenz Garcia
+
 
 def bubbleSort2(A):
     bandera= True
